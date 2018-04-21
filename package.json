@@ -1,0 +1,25 @@
+{
+  "name": "btc-timestamp",
+  "version": "1.0.0",
+  "description": "Time stamp data on the bitcoin blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/btc-timestamp.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "blockchain",
+    "time",
+    "stamp"
+  ],
+  "author": "Prahalad Belavadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/btc-timestamp/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/btc-timestamp#readme"
+}
